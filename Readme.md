@@ -143,6 +143,7 @@ Possible future improvements include:
 **Muhammad Aqil**
 
 BS Artificial Intelligence Student
+
 University of Management and Technology (UMT), Lahore
 
 ### 🔗 GitHub
